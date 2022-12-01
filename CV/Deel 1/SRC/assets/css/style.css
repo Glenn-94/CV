@@ -41,7 +41,6 @@ h1 {
 }
 
 .content-left-image img:hover {
-    webkit-box-shadow: 0px 10px 10px -1px #000000;
     box-shadow: 0px 10px 10px -1px #000000;
     transition: all ease 0.3s;
 }
@@ -68,11 +67,6 @@ h1 {
     padding-top: 10px;
     display: flex;
     align-items: center;
-}
-
-.content-left-education tr:nth-child(even) {
-    background-color: white;
-    color: #700000;
 }
 
 .content-left-language {
@@ -196,6 +190,8 @@ a:active {
 
 .content-right p {
     text-align: justify;
+    font-size: 18px;
+    font-weight: 500;
 }
 
 .content-right-experience h4 {

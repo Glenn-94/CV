@@ -145,6 +145,8 @@ hr {
 
 .content-right p {
     text-align: justify;
+    font-size: 16px;
+    font-weight: 500;
 }
 
 .content-right-experience h4 {
